@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there 👋, I'm Surya!
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Products+That+Matter;Always+Learning+Something+New+🚀" /> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Surya+Bala+Krishna;Full+Stack+Java+Developer;Spring+Boot+%7C+Java+%7C+Python;Data+Structures+%26+Algorithms;Passionate+About+Building+Scalable+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
