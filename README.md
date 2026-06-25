@@ -28,6 +28,8 @@
 ---
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N3M3M2ZWw3dW9vYjB3NXQ0MzNpdnJ4Z2Q0MXF1NTRjYmV5aG1sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
+---
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 ---
