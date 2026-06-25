@@ -2,9 +2,21 @@
 
 # Hey there 👋, I'm Surya!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Products+That+Matter;Always+Learning+Something+New+🚀" />
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Surya+Bala+Krishna;Full+Stack+Java+Developer;Spring+Boot+%7C+Java+%7C+Python;Data+Structures+%26+Algorithms;Passionate+About+Building+Scalable+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<!-- Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Surya%20Bala%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<!-- Animated Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 </div>
 
@@ -271,15 +283,6 @@ fun_fact:
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-> Configure GitHub Actions later and then uncomment the line below.
-
-```md
-![Snake animation](https://raw.githubusercontent.com/balakrishnamusinala17/balakrishnamusinala17/output/github-contribution-grid-snake.svg)
-```
-
----
 
 <div align="center">
 
