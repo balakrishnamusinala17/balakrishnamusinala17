@@ -276,7 +276,7 @@ fun_fact:
 > Configure GitHub Actions later and then uncomment the line below.
 
 ```md
-![Snake animation](https://github.com/balakrishnamusinala17/balakrishnamusinala17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/balakrishnamusinala17/balakrishnamusinala17/output/github-contribution-grid-snake.svg)
 ```
 
 ---
