@@ -155,15 +155,6 @@ fun_fact:
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balakrishnamusinala17&theme=tokyo-night"/>
-
-</div>
-
----
 
 ## 📊 GitHub Metrics
 
@@ -270,7 +261,7 @@ fun_fact:
 
 ---
 
-## 💡 Quote
+# 💡 Quote I Live By
 
 <div align="center">
 
