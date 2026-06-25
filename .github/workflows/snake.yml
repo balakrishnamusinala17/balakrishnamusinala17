@@ -1,14 +1,13 @@
 name: Generate Snake
 
 on:
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-```
-steps:
+    steps:
   - uses: Platane/snk@v3
     with:
       github_user_name: balakrishnamusinala17
