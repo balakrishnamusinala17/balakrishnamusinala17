@@ -30,9 +30,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
----
 ## 👨‍💻 About Me
 
 ```yaml
@@ -133,6 +130,9 @@ fun_fact:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
+
+---
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 ---
 
