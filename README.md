@@ -2,11 +2,6 @@
 
 # Hey there 👋, I'm Surya!
 
-<!-- Animated Header -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Surya%20Bala%20Krishna&fontSize=45&animation=fadeIn" />
-</p>
-
 <!-- Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Surya%20Bala%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
