@@ -4,7 +4,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Surya+Bala+Krishna;Full+Stack+Java+Developer;Spring+Boot+%7C+Java+%7C+Python;Data+Structures+%26+Algorithms;Passionate+About+Building+Scalable+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Surya%20Bala%20Krishna&fontSize=45&animation=fadeIn" />
 </p>
 
 <!-- Wave Banner -->
