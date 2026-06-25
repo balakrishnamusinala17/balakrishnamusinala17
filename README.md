@@ -165,13 +165,13 @@ fun_fact:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Metrics
 
-<div align="center">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balakrishnamusinala17&theme=tokyo-night)
 
-<img src="https://github-profile-trophy.vercel.app/?username=balakrishnamusinala17&theme=tokyonight&row=1&column=7"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balakrishnamusinala17&theme=tokyonight)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balakrishnamusinala17&layout=compact&theme=tokyonight)
 
 ---
 
