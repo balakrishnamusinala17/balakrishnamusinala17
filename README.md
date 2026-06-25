@@ -1,8 +1,10 @@
 <div align="center">
-# Hey there 👋 , I'm Surya!
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Surya%20Bala%20Krishna&fontAlignY=40&animation=fadeIn&fontSize=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Surya+Bala+Krishna;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Software+Engineering+Opportunities" />
+# Hey there 👋, I'm Surya!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Products+That+Matter;Always+Learning+Something+New+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -65,7 +67,22 @@ career_goal:
 fun_fact:
   - I turn ideas 💡 into code 💻
 ```
+## 🌐 Connect With Me
 
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=webflow" />
+</a>
+</p>
 ---
 
 ## 🚀 Coding Journey
@@ -78,11 +95,29 @@ fun_fact:
 
 ---
 
-## ⚒️ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,spring,mysql,git,github,vscode" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgresql" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
 
@@ -189,6 +224,15 @@ fun_fact:
 </div>
 
 ---
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
 
 ## 📂 Featured Projects
 
@@ -214,7 +258,7 @@ fun_fact:
 ---
 
 ## 🎯 2026 Goals
-
+- ✅ Build Full Stack Projects
 - ✅ Master Data Structures & Algorithms
 - ✅ Build Advanced Spring Boot Projects
 - ✅ Learn Microservices Architecture
@@ -223,23 +267,6 @@ fun_fact:
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/balakrishnamusinala17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -265,8 +292,10 @@ fun_fact:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+### If you like my work, consider giving a ⭐ to my repositories
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
